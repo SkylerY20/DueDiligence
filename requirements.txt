@@ -2,3 +2,5 @@ fastapi
 uvicorn
 celery
 redis
+playwright
+beautifulsoup4
